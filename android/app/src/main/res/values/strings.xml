@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FlexRehab AI</string>
+    <string name="title_activity_main">FlexRehab AI</string>
+    <string name="package_name">com.flexrehab.ai</string>
+    <string name="custom_url_scheme">com.flexrehab.ai</string>
+</resources>

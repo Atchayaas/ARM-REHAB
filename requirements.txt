@@ -1,0 +1,4 @@
+mediapipe>=0.10.20
+opencv-python>=4.8.0
+matplotlib>=3.8.0
+numpy>=2.0.0
